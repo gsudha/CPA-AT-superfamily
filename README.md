@@ -14,3 +14,4 @@ Homology_models/
 Homology modelling based on the best structural template. The pir and pdb file for the homology model is provided. The homology model is generated using modeller 9.22.
 
 Seed_MSA/
+seed MSA for each family. The seed MSA is used for topology annotation and is also used to find the representative sequence.
