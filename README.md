@@ -12,3 +12,5 @@ Final topology for representative sequence from each family. Files are labelled 
 
 Homology_models/
 Homology modelling based on the best structural template. The pir and pdb file for the homology model is provided. The homology model is generated using modeller 9.22.
+
+Seed_MSA/
